@@ -14,7 +14,7 @@ gem 'sass-rails', '~> 4.0.0'
 gem 'simple_form'
 gem 'turbolinks'
 gem 'uglifier', '>= 1.3.0'
-gem 'zurb-foundation'
+gem 'foundation-rails'
 
 group :development do
 	gem 'better_errors'
